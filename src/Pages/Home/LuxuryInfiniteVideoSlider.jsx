@@ -2,9 +2,6 @@ import React, { useRef, useState } from "react";
 import "./Home.css";
 
 const videos = [
-  "/Videos/ABS_TABLE_COVER.mp4",
-  "/Videos/ABS_STICING_UNIT.mp4",
- 
   "/Videos/MS6.0.mp4",
   "/Videos/TAJ-4.0.mp4",
   "/Videos/ABS4.0.mp4",
