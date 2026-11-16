@@ -2,10 +2,10 @@ import React, { useRef, useState } from "react";
 import "./Home.css";
 
 const videos = [
-  "/Videos/MS6.0.mp4",
-  "/Videos/TAJ-4.0.mp4",
   "/Videos/ABS4.0.mp4",
   "/Videos/work_video.mp4",
+  "/Videos/TAJ-4.0.mp4",
+  "/Videos/MS6.0.mp4",
 ];
 
 export default function LuxuryVideoSlider() {
